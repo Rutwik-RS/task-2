@@ -10,3 +10,6 @@ DOMAIN : FRONT END WEB DEVELOPMENT
 
 DURATION 4 WEEKS
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/fbb45a94-4da6-416f-beaf-d04f8cf1743f)
